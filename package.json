@@ -1,0 +1,24 @@
+{
+  "name": "life360-io",
+  "version": "1.0.0",
+  "description": "an information-overflow widget for life360 locations in comination with the life-360-tracker",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proxtx/life360-io.git"
+  },
+  "author": "Proxtx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proxtx/life360-io/issues"
+  },
+  "homepage": "https://github.com/Proxtx/life360-io#readme",
+  "dependencies": {
+    "@proxtx/combine-rest": "^1.0.4",
+    "@proxtx/config": "^1.0.2"
+  }
+}
